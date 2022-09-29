@@ -250,7 +250,7 @@ $RECYCLE.BIN/
 
 
 # Loose files
-data/us_equities_news_dataset.csv
+data/raw/us_equities_news_dataset.csv
 
 
 
